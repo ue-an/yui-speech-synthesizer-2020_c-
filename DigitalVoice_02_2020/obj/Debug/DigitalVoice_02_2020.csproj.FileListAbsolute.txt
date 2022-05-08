@@ -1,0 +1,48 @@
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe.config
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.pdb
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Form1.resources
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Properties.Resources.resources
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csproj.GenerateResource.Cache
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.exe
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.pdb
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Form2.resources
+C:\Users\Ian Aguinaldo\documents\visual studio 2015\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Form2.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.SpeechSynth.resources
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe.config
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.pdb
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csprojResolveAssemblyReference.cache
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.SpeechSynth.resources
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Form2.resources
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Properties.Resources.resources
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csproj.GenerateResource.Cache
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.exe
+C:\tempHDD\_Programming\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.pdb
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe.config
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.exe
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.pdb
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.exe
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\DigitalVoice_02_2020.pdb
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\mscorlib.dll
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\System.Net.Http.dll
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\System.Net.Http.xml
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\normidna.nlp
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\normnfc.nlp
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\normnfd.nlp
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\normnfkc.nlp
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\bin\Debug\normnfkd.nlp
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csprojResolveAssemblyReference.cache
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.SpeechSynth.resources
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Form2.resources
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.Properties.Resources.resources
+D:\_ue!\_AIEIEN\PROGRAMMING\_BackupProgramming\DigitalVoice_02_2020\DigitalVoice_02_2020\obj\Debug\DigitalVoice_02_2020.csproj.GenerateResource.Cache
